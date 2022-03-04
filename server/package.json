@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "longPull": "nodemon src/longPulling.js"
+    "longPull": "nodemon src/longPulling.js",
+    "eventSourcing": "nodemon src/eventSourcing.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

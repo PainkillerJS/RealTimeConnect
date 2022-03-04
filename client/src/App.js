@@ -1,9 +1,11 @@
 import { LongPulling } from "./LongPulling";
+import { EventSourcing } from "./EventSourcing";
 
 function App() {
   return (
     <div className="App">
-      <LongPulling />
+      {/*<LongPulling />*/}
+      <EventSourcing />
     </div>
   );
 }
