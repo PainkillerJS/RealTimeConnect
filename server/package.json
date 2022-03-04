@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "longPull": "nodemon src/longPulling.js",
-    "eventSourcing": "nodemon src/eventSourcing.js"
+    "eventSourcing": "nodemon src/eventSourcing.js",
+    "websocket": "nodemon src/websocket.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
